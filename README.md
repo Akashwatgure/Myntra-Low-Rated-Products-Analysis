@@ -43,6 +43,7 @@ Perform data cleaning, transformation, and analysis to identify:
 - 🌳 **Tree Map (Shirts)**: Top 10 sellers of low-rated shirts  
 - 🥧 **Pie Chart (Watches)**: Top 10 sellers of low-rated watches  
 - ⭐ All visuals include **Spotlight enabled** for emphasis  
-![Myntra](https://github.com/Akashwatgure/Myntra-Low-Rated-Products-Analysis/blob/main/Myntra%20Analysis.png?raw=true)
+<img width="1332" height="749" alt="image" src="https://github.com/user-attachments/assets/4e44f5c6-2480-4d08-a431-4912766639a3" />
+
 ```
 
